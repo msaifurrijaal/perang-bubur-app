@@ -7,7 +7,7 @@ import androidx.lifecycle.ViewModel
 class QuizViewModel : ViewModel() {
 
     var question = arrayOf(
-        "Kamu kalau makan bubur kacang hijau diaduk apa engga?",
+        "Kamu kalau makan bubur sagu diaduk apa engga?",
         "Kamu kalau makan bubur ayam diaduk apa engga?",
         "Kamu kalau makan bubur sum-sum diaduk apa engga?"
     )
